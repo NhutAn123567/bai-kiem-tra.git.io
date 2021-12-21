@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    
+}
+.phandau {
+display: flex;
+width: 100%;
+height: 100%;
+text-align: center;
+}
+.phandau .top {
+    padding-top: 100px;
+}
+.phandau .phandau1 {
+    width :100%;
+    height: 100%;
+    padding-top: 50px;
+}
+.phandau .phandau1 ._2{
+    padding-top: 200px;
+}
+.phandau1 h1 {
+    font-size: 150px ;
+    color: rgb(228, 110, 42);
+}
+.phangiua {
+    width: 100%;
+}
+._4phanto h5 {
+    color: orangered;
+}
+._4phanto p {
+    color: gray;
+}
+._4phanto {
+width: 70%;
+
+}
+ .phangiua ._4phan {
+    margin: 100px 50px;
+    display: flex;
+    width: 100%;
+    text-align: left;
+    justify-content: center;
+    
+}
+.phangiua ._4phan .chu{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.phangiua ._4phan .chu p{
+    padding-top: 30px;
+}
+.phangiua .chim1{
+    text-align: left;
+    width:25%;
+
+}
+.phangiua .chamcham{
+    text-align: right;
+    margin: 200px 0;
+    width: 25%;
+}
+.phangiua {
+    padding-top: 100px;
+    display: flex;
+    text-align: center;
+    width:100%;
+    height: 100%;
+}
+.phangiua ._4phan .chu h3 {
+    font-size: 40px;
+}
+.phangiua ._4phan .chu h5 {
+    font-size: 40px;
+}
+.phangiua ._4phan .chu p {
+    font-size:30px;
+}
+.chim1 {
+    padding-top: 600px;
+}
+.chim2 {
+    padding-top: 400px;
+}
+.chim1 .khoc{
+    padding-top: 550px;
+}
+.chamcham .cuoi{
+    padding-top: 400px;
+}
+.phancuoi {
+    width: 100%;
+    display: flex;
+    color: orangered;
+}
+.phancuoi ._10{
+    width: 50%;
+}
+.phancuoi .nut{
+   border-top-right-radius: 90px;
+   border-bottom-right-radius: 90px;
+   text-align: center;
+    width: 600px;
+    height: 100px;
+   background-color: yellow;
+   
+}
+.nut a{
+    color: orangered;
+    text-decoration: none;
+    font-size: 80px;
+}
+.nut2 {
+    margin: 0 30px;
+    text-align: right;
+    width: 50%;
+}
+`
+.phancuoi .nut2 ._ii{
+    display: flex;
+}
+._ii i{
+    font-size: 60px;
+}
